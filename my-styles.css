@@ -1,0 +1,17 @@
+h2 {
+  color: red;
+  font-size: 24px;
+  font-weight: 200;
+}
+
+body {
+font-family: "helvetica", sans-serif;
+}
+
+h1 {
+font-size: 28px;
+}
+ div {
+   border: 1px solid gray;
+   margin-bottom: 5px;
+ }
